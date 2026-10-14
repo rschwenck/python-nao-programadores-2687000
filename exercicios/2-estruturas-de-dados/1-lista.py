@@ -52,7 +52,3 @@ print(lista_bool)
 print(lista_operadores)
 
 
-lista_int.append(390, 84)
-print(lista_int)
-
-
